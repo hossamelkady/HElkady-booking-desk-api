@@ -1,5 +1,5 @@
 {
-  "name": "hossamelkady/booking-desk-api",
+  "name": "hossamelkady/HElkady-booking-desk-api",
   "type": "project",
   "description": "A small reservation API with availability windows and booking states.",
   "keywords": ["laravel", "php", "rest-api", "portfolio"],
